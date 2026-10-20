@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/supermee/Developer/game-engine/testRenderer/build/cmake_install.cmake",
+		"/Users/supermee/Developer/game-engine/testRenderer/build/vendor/glfw/cmake_install.cmake",
+		"/Users/supermee/Developer/game-engine/testRenderer/build/vendor/glfw/src/cmake_install.cmake",
+		"/Users/supermee/Developer/game-engine/testRenderer/build/glad_cmake/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
